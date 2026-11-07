@@ -188,4 +188,4 @@ This repository serves as the official landing page for 1Tree Basic. The softwar
 **Get the most recent version of 1Tree Basic today!**
 
 ---
-**Last updated:** 2026-11-07 17:37:55 UTC
+**Last updated:** 2026-11-07 21:20:58 UTC
